@@ -1,7 +1,7 @@
 
 public class ComparePoints {
 
-	public String Compass(String input) {
+	public String findDirections(String input) {
 		String[] direction = input.split(",");
 		// now we have an array of 4 things, first two are O P and second two
 		// are Q R
